@@ -1,0 +1,23 @@
+Received: from mail-badgateway.net (mail-badgateway.net [185.220.101.5])
+	by mx.targetcorp.com with ESMTPS id 5L2kQm1Zp8z99
+	for <victim@targetcorp.com>; Thu, 24 Sep 2026 10:15:00 +0000
+Authentication-Results: mx.targetcorp.com;
+	dkim=none;
+	spf=fail (targetcorp.com: domain of bounce@marketing-spammer.net does not designate 185.220.101.5 as permitted sender) smtp.mailfrom=bounce@marketing-spammer.net;
+	dmarc=fail (p=REJECT) header.from=paypal-fraud-center.com
+Received-SPF: fail (targetcorp.com: domain of bounce@marketing-spammer.net does not designate 185.220.101.5 as permitted sender)
+From: "PayPal Security Department" <security-alerts@paypal-fraud-center.com>
+To: victim@targetcorp.com
+Subject: URGENT: Your PayPal Account Has Been Suspended!
+Date: Thu, 24 Sep 2026 10:14:30 +0000
+Message-ID: <92847291.90123@spammer-botnet.org>
+Return-Path: <bounce@marketing-spammer.net>
+Reply-To: security-recovery@paypal-fraud-center.com
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual login activity on your PayPal account. Immediate action required to restore your access:
+http://paypal-verification-restore.org/login
+
+PayPal Security Team

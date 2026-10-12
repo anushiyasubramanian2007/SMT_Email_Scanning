@@ -1,0 +1,23 @@
+Received: from rogue-relay.attacker.org (rogue-relay.attacker.org [45.33.32.156])
+	by mx.targetcorp.com with ESMTPS id 3W9kLm8Zq0z22
+	for <accounting@targetcorp.com>; Thu, 24 Sep 2026 11:00:00 +0000
+Authentication-Results: mx.targetcorp.com;
+	dkim=none;
+	spf=fail (targetcorp.com: domain of billing@trusted-vendor.com does not designate 45.33.32.156 as permitted sender) smtp.mailfrom=billing@trusted-vendor.com;
+	dmarc=fail (p=REJECT) header.from=trusted-vendor.com
+Received-SPF: fail (targetcorp.com: domain of billing@trusted-vendor.com does not designate 45.33.32.156 as permitted sender)
+From: Billing Services <billing@trusted-vendor.com>
+To: Accounting <accounting@targetcorp.com>
+Subject: Revised Wire Transfer Instructions for Pending Invoice
+Date: Thu, 24 Sep 2026 10:59:00 +0000
+Message-ID: <invoice-update-9938@rogue-relay.attacker.org>
+Return-Path: <billing@trusted-vendor.com>
+Reply-To: billing@trusted-vendor.com
+Content-Type: text/plain; charset="utf-8"
+
+Attention Accounts Payable,
+
+Please find our revised banking coordinates for the upcoming remittance transfer. Do not use the previously registered account.
+
+Regards,
+Vendor Billing Department

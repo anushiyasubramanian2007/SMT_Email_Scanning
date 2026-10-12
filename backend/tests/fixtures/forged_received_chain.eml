@@ -1,0 +1,18 @@
+Received: from mx.targetcorp.com (mx.targetcorp.com [198.51.100.2])
+	by mailstore.targetcorp.com with LMTP id 9Z8kLm1Zq4z88;
+	Thu, 24 Sep 2026 14:00:00 +0000
+Received: from forged-upstream.net (forged-upstream.net [203.0.113.88])
+	by mx.targetcorp.com with ESMTPS id 7K3jQm9Zp1z55;
+	Thu, 24 Sep 2026 16:30:00 +0000
+Received: from client-origin.badhost.org ([198.18.0.1])
+	by forged-upstream.net with SMTP id 4M2kLj8Yq9z00;
+	Thu, 24 Sep 2026 18:00:00 +0000
+From: Security Alerts <notifications@fraud-bank-portal.com>
+To: target@targetcorp.com
+Subject: Critical Alert: Unauthorized Fund Transfer Initiated
+Date: Thu, 24 Sep 2026 14:00:00 +0000
+Message-ID: <alert-882194@fraud-bank-portal.com>
+Return-Path: <notifications@fraud-bank-portal.com>
+Content-Type: text/plain; charset="utf-8"
+
+A transfer of $4,850.00 has been initiated from your account. If this was not authorized by you, click here to cancel immediately.

@@ -1,0 +1,23 @@
+Received: from mail-east.enterprise-corp.com (mail-east.enterprise-corp.com [198.51.100.44])
+	by mx.targetcorp.com with ESMTPS id 8R4jKm2Zq1z01
+	for <cfo@targetcorp.com>; Thu, 24 Sep 2026 12:30:00 +0000
+Authentication-Results: mx.targetcorp.com;
+	spf=pass smtp.mailfrom=john.doe@enterprise-corp.com;
+	dkim=pass header.d=enterprise-corp.com;
+	dmarc=pass header.from=enterprise-corp.com
+From: "John Doe - CEO" <john.doe@enterprise-corp.com>
+To: CFO <cfo@targetcorp.com>
+Reply-To: "John Doe" <john.doe.enterprise2026@gmail.com>
+Subject: URGENT: Confidential Acquisition Wire Confirmation Required Today
+Date: Thu, 24 Sep 2026 12:29:10 +0000
+Message-ID: <ceo-urgent-msg-9921@enterprise-corp.com>
+Return-Path: <john.doe@enterprise-corp.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hi,
+
+Are you available at your desk right now? We have an urgent financial transaction closing today for an undisclosed acquisition. Please process the wire transfer according to the attached schedule and reply directly to this email so I can confirm on my mobile.
+
+Thanks,
+John Doe
+Chief Executive Officer

@@ -1,0 +1,1181 @@
+text,label,category
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #8290] Finance Department,",1,phishing
+"Hello, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #47911] Sincerely,",0,legitimate
+"Hi, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #86346] Thank you,",1,bec_fraud
+"Dear User, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #38713] Best regards,",0,legitimate
+"Urgent: Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #22156] Sincerely,",1,suspicious
+"Attention, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #15481] Corporate Security,",1,bec_fraud
+"Hi, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #13434] Thank you,",1,bec_fraud
+"Attention, Following up on our discussion last week regarding the database migration timeline. [Ref: #10859] Best regards,",0,legitimate
+"Hello, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #47530] Corporate Security,",1,phishing
+"Urgent: Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #90472] Best regards,",1,phishing
+"Dear User, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #66717] Finance Department,",1,suspicious
+"Attention, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #73605] Best regards,",1,impersonation
+"Dear User, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #3009] Best regards,",0,legitimate
+"Urgent: You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #41083] Finance Department,",1,suspicious
+"Good morning, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #46244] Corporate Security,",1,bec_fraud
+"Hi, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #55161] Best regards,",1,impersonation
+"Hi, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #60811] Thank you,",1,suspicious
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #14060] Best regards,",1,bec_fraud
+"Attention, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #84853] Corporate Security,",1,bec_fraud
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #74463] Thank you,",1,bec_fraud
+"Hello, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #96398] Sincerely,",1,impersonation
+"Good morning, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #67328] Sincerely,",1,impersonation
+"Good morning, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #50486] Finance Department,",1,impersonation
+"Hi, Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #94494] Best regards,",0,legitimate
+"Urgent: Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #68311] Finance Department,",1,suspicious
+"Attention, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #31919] Finance Department,",1,phishing
+"Hello, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #43983] Thank you,",1,phishing
+"Hello, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #66641] Thank you,",1,phishing
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #82944] Finance Department,",1,phishing
+"Urgent: Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #83728] Corporate Security,",1,impersonation
+"Hello, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #61928] Corporate Security,",0,legitimate
+"Hello, Could you please share the API documentation and swagger specs for the billing service? [Ref: #7287] Best regards,",0,legitimate
+"Dear User, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #19363] Best regards,",1,bec_fraud
+"Urgent: Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #15598] Sincerely,",1,bec_fraud
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #85834] Thank you,",1,phishing
+"Dear User, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #99458] Best regards,",1,bec_fraud
+"Hello, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #85882] Best regards,",1,phishing
+"Hi, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #42878] Thank you,",1,bec_fraud
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #15755] Sincerely,",1,impersonation
+"Attention, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #7829] Best regards,",1,phishing
+"Urgent: The code for the new authentication feature has been merged into the develop branch. [Ref: #86054] Thank you,",0,legitimate
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #65084] Finance Department,",1,phishing
+"Attention, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #26608] Thank you,",1,suspicious
+"Hi, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #66880] Thank you,",0,legitimate
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #45630] Sincerely,",1,bec_fraud
+"Dear User, Don't forget to submit your timesheets and expense reports by Friday at 5 PM. [Ref: #98060] Best regards,",0,legitimate
+"Dear User, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #86543] Corporate Security,",1,phishing
+"Hello, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #5654] Corporate Security,",1,phishing
+"Hello, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #21301] Sincerely,",1,suspicious
+"Hi, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #55636] Thank you,",1,impersonation
+"Hi, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #44900] Sincerely,",1,bec_fraud
+"Hi, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #75369] Corporate Security,",1,suspicious
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #96191] Best regards,",1,suspicious
+"Urgent: IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #37112] Finance Department,",1,phishing
+"Urgent: Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #19483] Sincerely,",1,bec_fraud
+"Hi, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #13522] Corporate Security,",1,phishing
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #71374] Finance Department,",1,suspicious
+"Hello, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #19153] Finance Department,",1,bec_fraud
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #35520] Sincerely,",1,bec_fraud
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #52149] Best regards,",1,phishing
+"Hello, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #72961] Finance Department,",1,phishing
+"Hi, Could you please share the API documentation and swagger specs for the billing service? [Ref: #85807] Sincerely,",0,legitimate
+"Good morning, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #5240] Best regards,",1,suspicious
+"Hi, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #8525] Best regards,",1,impersonation
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #40678] Thank you,",1,phishing
+"Hello, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #89483] Corporate Security,",1,suspicious
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #54638] Best regards,",1,suspicious
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #30831] Corporate Security,",1,phishing
+"Good morning, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #3038] Thank you,",1,impersonation
+"Dear User, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #25967] Best regards,",1,suspicious
+"Hi, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #48458] Thank you,",1,bec_fraud
+"Dear User, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #94178] Thank you,",1,suspicious
+"Hi, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #4584] Sincerely,",1,bec_fraud
+"Dear User, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #39634] Finance Department,",0,legitimate
+"Dear User, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #46334] Best regards,",1,impersonation
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #84538] Thank you,",1,suspicious
+"Good morning, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #5989] Best regards,",0,legitimate
+"Hello, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #95834] Sincerely,",1,suspicious
+"Urgent: Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #6479] Corporate Security,",0,legitimate
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #21540] Thank you,",1,suspicious
+"Dear User, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #11266] Best regards,",1,bec_fraud
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #92367] Sincerely,",1,impersonation
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #51787] Best regards,",1,suspicious
+"Hi, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #6625] Best regards,",1,bec_fraud
+"Urgent: Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #51399] Corporate Security,",1,bec_fraud
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #39926] Best regards,",1,phishing
+"Urgent: Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #66122] Best regards,",1,phishing
+"Dear User, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #10875] Thank you,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #36478] Thank you,",1,phishing
+"Hi, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #11776] Corporate Security,",1,bec_fraud
+"Hi, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #78842] Corporate Security,",1,bec_fraud
+"Hi, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #1828] Sincerely,",0,legitimate
+"Urgent: Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #85223] Best regards,",1,phishing
+"Hi, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #57972] Thank you,",1,bec_fraud
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #7362] Thank you,",1,phishing
+"Attention, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #34923] Finance Department,",1,suspicious
+"Good morning, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #48615] Finance Department,",1,impersonation
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #71376] Corporate Security,",1,suspicious
+"Attention, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #71160] Corporate Security,",0,legitimate
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #65659] Thank you,",1,phishing
+"Dear User, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #43992] Best regards,",1,impersonation
+"Attention, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #59723] Corporate Security,",1,suspicious
+"Hi, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #92236] Finance Department,",1,bec_fraud
+"Dear User, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #98557] Corporate Security,",0,legitimate
+"Dear User, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #83725] Corporate Security,",1,phishing
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #47784] Thank you,",1,phishing
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #20116] Finance Department,",1,bec_fraud
+"Attention, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #70544] Finance Department,",1,suspicious
+"Dear User, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #57901] Finance Department,",1,impersonation
+"Dear User, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #60351] Thank you,",1,phishing
+"Attention, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #23731] Best regards,",1,impersonation
+"Good morning, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #4810] Sincerely,",1,impersonation
+"Attention, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #95528] Finance Department,",0,legitimate
+"Good morning, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #47729] Corporate Security,",1,impersonation
+"Urgent: Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #98850] Finance Department,",1,impersonation
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #34911] Corporate Security,",1,phishing
+"Urgent: Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #55657] Corporate Security,",1,impersonation
+"Attention, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #24582] Thank you,",1,impersonation
+"Hello, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #84321] Finance Department,",1,impersonation
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #42047] Corporate Security,",1,suspicious
+"Hi, Following up on our discussion last week regarding the database migration timeline. [Ref: #56220] Best regards,",0,legitimate
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #28040] Best regards,",1,bec_fraud
+"Urgent: Could you please share the API documentation and swagger specs for the billing service? [Ref: #82725] Sincerely,",0,legitimate
+"Urgent: Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #83897] Thank you,",1,impersonation
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #9856] Sincerely,",1,phishing
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #99532] Corporate Security,",1,impersonation
+"Urgent: Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #63530] Finance Department,",0,legitimate
+"Hello, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #2554] Finance Department,",1,bec_fraud
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #35027] Finance Department,",1,phishing
+"Hello, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #70160] Best regards,",1,impersonation
+"Hello, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #57442] Corporate Security,",1,phishing
+"Attention, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #97005] Thank you,",1,impersonation
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #95803] Sincerely,",1,phishing
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #24327] Sincerely,",1,phishing
+"Urgent: Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #19732] Corporate Security,",1,impersonation
+"Attention, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #27118] Finance Department,",1,impersonation
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #34888] Best regards,",1,suspicious
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #10035] Thank you,",1,phishing
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #81424] Best regards,",1,bec_fraud
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #91509] Best regards,",1,suspicious
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #37939] Sincerely,",1,phishing
+"Dear User, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #88078] Corporate Security,",1,bec_fraud
+"Dear User, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #33084] Best regards,",1,phishing
+"Urgent: Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #87720] Thank you,",1,phishing
+"Urgent: Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #63826] Sincerely,",1,phishing
+"Good morning, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #98244] Sincerely,",1,suspicious
+"Good morning, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #22399] Corporate Security,",0,legitimate
+"Attention, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #45474] Sincerely,",1,suspicious
+"Urgent: Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #71416] Finance Department,",0,legitimate
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #55368] Best regards,",1,phishing
+"Good morning, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #10049] Thank you,",0,legitimate
+"Attention, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #55333] Sincerely,",1,suspicious
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #65314] Best regards,",1,suspicious
+"Hi, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #73195] Corporate Security,",1,impersonation
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #1695] Sincerely,",1,impersonation
+"Attention, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #16471] Finance Department,",0,legitimate
+"Urgent: Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #73556] Finance Department,",0,legitimate
+"Good morning, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #98170] Corporate Security,",0,legitimate
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #95127] Corporate Security,",1,phishing
+"Dear User, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #14003] Sincerely,",1,suspicious
+"Hi, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #99429] Sincerely,",0,legitimate
+"Urgent: Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #65290] Finance Department,",1,suspicious
+"Urgent: DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #74541] Sincerely,",1,phishing
+"Good morning, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #74670] Corporate Security,",1,bec_fraud
+"Hi, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #17854] Corporate Security,",1,impersonation
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #98238] Sincerely,",1,bec_fraud
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #46360] Finance Department,",1,suspicious
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #71442] Thank you,",1,phishing
+"Hi, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #40283] Thank you,",0,legitimate
+"Hi, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #62972] Corporate Security,",1,bec_fraud
+"Hello, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #60150] Best regards,",1,suspicious
+"Attention, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #36220] Corporate Security,",1,suspicious
+"Hello, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #81609] Corporate Security,",1,phishing
+"Urgent: Please find attached the financial statements and quarterly audit report for your review. [Ref: #94521] Thank you,",0,legitimate
+"Urgent: Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #74109] Thank you,",0,legitimate
+"Urgent: PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #46759] Corporate Security,",1,impersonation
+"Good morning, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #70608] Sincerely,",1,phishing
+"Attention, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #34879] Best regards,",1,impersonation
+"Hi, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #36513] Corporate Security,",1,phishing
+"Urgent: DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #18865] Corporate Security,",1,impersonation
+"Hi, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #14021] Corporate Security,",1,bec_fraud
+"Hi, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #28874] Sincerely,",0,legitimate
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #39490] Finance Department,",1,bec_fraud
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #63428] Best regards,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #91667] Corporate Security,",1,phishing
+"Dear User, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #37614] Corporate Security,",1,bec_fraud
+"Urgent: Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #11503] Thank you,",0,legitimate
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #42633] Finance Department,",1,suspicious
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #25613] Best regards,",1,phishing
+"Hi, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #47245] Finance Department,",1,impersonation
+"Hi, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #90395] Thank you,",0,legitimate
+"Hi, Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #2206] Sincerely,",0,legitimate
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #71687] Best regards,",1,suspicious
+"Good morning, Could you please share the API documentation and swagger specs for the billing service? [Ref: #65566] Best regards,",0,legitimate
+"Hello, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #29077] Finance Department,",1,impersonation
+"Hello, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #26883] Sincerely,",1,impersonation
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #71792] Finance Department,",1,impersonation
+"Urgent: CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #29584] Sincerely,",1,bec_fraud
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #98733] Finance Department,",1,bec_fraud
+"Dear User, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #57584] Corporate Security,",1,impersonation
+"Urgent: FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #90088] Best regards,",1,impersonation
+"Hello, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #42991] Thank you,",1,phishing
+"Dear User, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #61225] Finance Department,",1,phishing
+"Attention, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #50153] Corporate Security,",1,bec_fraud
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #76832] Finance Department,",1,bec_fraud
+"Hello, Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #54402] Finance Department,",0,legitimate
+"Dear User, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #59535] Thank you,",1,impersonation
+"Hello, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #26717] Best regards,",1,impersonation
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #6100] Thank you,",1,phishing
+"Urgent: DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #61443] Sincerely,",1,phishing
+"Dear User, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #62938] Finance Department,",1,impersonation
+"Hello, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #32545] Best regards,",1,phishing
+"Good morning, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #18103] Thank you,",0,legitimate
+"Good morning, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #22669] Finance Department,",1,phishing
+"Hi, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #58602] Best regards,",1,impersonation
+"Hi, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #90064] Best regards,",1,bec_fraud
+"Dear User, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #2040] Best regards,",0,legitimate
+"Good morning, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #81036] Sincerely,",0,legitimate
+"Urgent: Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #57822] Thank you,",0,legitimate
+"Hello, Following up on our discussion last week regarding the database migration timeline. [Ref: #83554] Corporate Security,",0,legitimate
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #67409] Corporate Security,",1,suspicious
+"Attention, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #33195] Best regards,",1,impersonation
+"Urgent: Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #45479] Sincerely,",1,bec_fraud
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #19231] Sincerely,",1,suspicious
+"Good morning, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #49818] Sincerely,",1,phishing
+"Hi, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #47064] Sincerely,",1,bec_fraud
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #81229] Finance Department,",1,bec_fraud
+"Hello, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #10487] Thank you,",1,impersonation
+"Dear User, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #51995] Best regards,",1,suspicious
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #58400] Corporate Security,",1,phishing
+"Dear User, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #3426] Corporate Security,",1,impersonation
+"Urgent: Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #31913] Corporate Security,",0,legitimate
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #7636] Corporate Security,",1,suspicious
+"Hi, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #24593] Sincerely,",1,suspicious
+"Hello, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #38144] Best regards,",0,legitimate
+"Urgent: Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #83460] Thank you,",0,legitimate
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #47554] Corporate Security,",1,bec_fraud
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #38010] Corporate Security,",1,phishing
+"Good morning, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #98202] Sincerely,",1,impersonation
+"Urgent: DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #88892] Corporate Security,",1,impersonation
+"Urgent: Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #80854] Corporate Security,",1,impersonation
+"Good morning, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #55159] Finance Department,",1,suspicious
+"Dear User, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #47322] Sincerely,",0,legitimate
+"Good morning, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #36019] Thank you,",0,legitimate
+"Good morning, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #15535] Thank you,",1,impersonation
+"Dear User, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #3081] Sincerely,",0,legitimate
+"Dear User, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #74093] Finance Department,",1,impersonation
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #59003] Finance Department,",1,phishing
+"Attention, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #99792] Finance Department,",1,bec_fraud
+"Hi, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #73032] Sincerely,",0,legitimate
+"Attention, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #88375] Finance Department,",1,suspicious
+"Attention, Following up on our discussion last week regarding the database migration timeline. [Ref: #72925] Corporate Security,",0,legitimate
+"Good morning, Following up on our discussion last week regarding the database migration timeline. [Ref: #23634] Best regards,",0,legitimate
+"Hello, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #47087] Sincerely,",1,bec_fraud
+"Hello, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #98910] Thank you,",1,impersonation
+"Good morning, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #12365] Thank you,",0,legitimate
+"Attention, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #80630] Corporate Security,",1,impersonation
+"Hello, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #72113] Sincerely,",0,legitimate
+"Urgent: Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #3814] Corporate Security,",1,phishing
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #38183] Corporate Security,",1,impersonation
+"Good morning, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #9734] Sincerely,",1,bec_fraud
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #21005] Corporate Security,",1,phishing
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #76570] Sincerely,",1,phishing
+"Good morning, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #82925] Finance Department,",1,suspicious
+"Good morning, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #92188] Corporate Security,",1,impersonation
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #58934] Corporate Security,",1,bec_fraud
+"Good morning, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #88605] Sincerely,",1,impersonation
+"Hello, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #46137] Finance Department,",0,legitimate
+"Hello, The code for the new authentication feature has been merged into the develop branch. [Ref: #27233] Best regards,",0,legitimate
+"Attention, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #65187] Thank you,",1,phishing
+"Hi, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #8067] Thank you,",1,impersonation
+"Urgent: IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #17073] Best regards,",1,phishing
+"Urgent: Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #87333] Sincerely,",0,legitimate
+"Attention, The code for the new authentication feature has been merged into the develop branch. [Ref: #2649] Thank you,",0,legitimate
+"Attention, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #78427] Corporate Security,",1,phishing
+"Dear User, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #77500] Thank you,",1,suspicious
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #42211] Corporate Security,",1,phishing
+"Attention, Following up on our discussion last week regarding the database migration timeline. [Ref: #62353] Corporate Security,",0,legitimate
+"Hello, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #71023] Corporate Security,",1,suspicious
+"Hello, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #87121] Sincerely,",1,phishing
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #61353] Sincerely,",1,phishing
+"Urgent: Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #75723] Finance Department,",0,legitimate
+"Urgent: Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #53645] Corporate Security,",0,legitimate
+"Good morning, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #95056] Sincerely,",1,phishing
+"Attention, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #51647] Thank you,",1,phishing
+"Hello, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #55377] Sincerely,",1,suspicious
+"Hello, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #84440] Sincerely,",0,legitimate
+"Urgent: Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #84356] Thank you,",0,legitimate
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #35338] Best regards,",1,phishing
+"Dear User, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #58006] Corporate Security,",1,impersonation
+"Dear User, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #8220] Finance Department,",0,legitimate
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #88477] Corporate Security,",1,phishing
+"Good morning, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #93539] Finance Department,",0,legitimate
+"Attention, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #66584] Corporate Security,",0,legitimate
+"Hello, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #97667] Sincerely,",1,bec_fraud
+"Urgent: URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #62566] Corporate Security,",1,bec_fraud
+"Hello, Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #56031] Finance Department,",0,legitimate
+"Good morning, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #41400] Corporate Security,",0,legitimate
+"Attention, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #64939] Finance Department,",1,impersonation
+"Hi, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #54446] Thank you,",1,suspicious
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #58277] Thank you,",1,bec_fraud
+"Urgent: Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #21700] Thank you,",0,legitimate
+"Attention, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #17259] Finance Department,",1,impersonation
+"Hello, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #51609] Thank you,",0,legitimate
+"Hi, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #74467] Finance Department,",1,bec_fraud
+"Dear User, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #91027] Sincerely,",1,bec_fraud
+"Attention, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #4545] Sincerely,",1,suspicious
+"Urgent: Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #67192] Corporate Security,",1,suspicious
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #59784] Best regards,",1,suspicious
+"Hi, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #47561] Corporate Security,",0,legitimate
+"Dear User, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #31878] Corporate Security,",1,suspicious
+"Attention, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #33371] Sincerely,",1,impersonation
+"Dear User, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #19413] Corporate Security,",1,bec_fraud
+"Hi, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #9595] Best regards,",0,legitimate
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #26602] Sincerely,",1,bec_fraud
+"Good morning, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #58882] Finance Department,",1,phishing
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #94142] Thank you,",1,bec_fraud
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #94625] Finance Department,",1,bec_fraud
+"Dear User, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #79078] Finance Department,",0,legitimate
+"Hello, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #23910] Sincerely,",0,legitimate
+"Urgent: Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #86491] Sincerely,",0,legitimate
+"Good morning, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #69735] Corporate Security,",1,impersonation
+"Dear User, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #30390] Best regards,",1,bec_fraud
+"Hello, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #99448] Corporate Security,",1,impersonation
+"Urgent: Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #20586] Corporate Security,",0,legitimate
+"Attention, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #69848] Corporate Security,",1,suspicious
+"Good morning, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #4535] Corporate Security,",1,phishing
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #32869] Thank you,",1,suspicious
+"Attention, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #3512] Finance Department,",1,suspicious
+"Good morning, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #94842] Thank you,",1,bec_fraud
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #32990] Thank you,",1,phishing
+"Hello, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #52112] Thank you,",1,phishing
+"Dear User, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #4966] Best regards,",1,phishing
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #31202] Finance Department,",1,suspicious
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #53509] Thank you,",1,suspicious
+"Good morning, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #91662] Sincerely,",1,phishing
+"Attention, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #13906] Best regards,",0,legitimate
+"Hi, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #59568] Thank you,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #32652] Finance Department,",1,phishing
+"Urgent: Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #20417] Finance Department,",0,legitimate
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #93967] Best regards,",1,phishing
+"Good morning, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #22898] Best regards,",1,phishing
+"Hi, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #64608] Best regards,",0,legitimate
+"Urgent: IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #63470] Corporate Security,",1,phishing
+"Hello, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #43385] Best regards,",1,bec_fraud
+"Attention, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #22688] Sincerely,",1,bec_fraud
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #40901] Sincerely,",1,bec_fraud
+"Good morning, Could you please share the API documentation and swagger specs for the billing service? [Ref: #98887] Thank you,",0,legitimate
+"Good morning, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #51870] Thank you,",1,phishing
+"Good morning, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #22845] Thank you,",1,impersonation
+"Good morning, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #64569] Sincerely,",1,phishing
+"Hi, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #90941] Sincerely,",1,impersonation
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #94501] Sincerely,",1,suspicious
+"Urgent: Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #29082] Finance Department,",1,phishing
+"Dear User, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #21786] Sincerely,",1,phishing
+"Good morning, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #13828] Sincerely,",1,impersonation
+"Good morning, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #77513] Thank you,",1,suspicious
+"Urgent: Don't forget to submit your timesheets and expense reports by Friday at 5 PM. [Ref: #19084] Sincerely,",0,legitimate
+"Dear User, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #50287] Finance Department,",0,legitimate
+"Urgent: URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #13443] Sincerely,",1,bec_fraud
+"Hello, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #21171] Thank you,",1,impersonation
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #75321] Thank you,",1,phishing
+"Hi, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #62173] Best regards,",1,bec_fraud
+"Attention, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #83357] Thank you,",1,suspicious
+"Attention, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #49385] Best regards,",1,suspicious
+"Attention, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #93550] Corporate Security,",1,bec_fraud
+"Dear User, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #72900] Corporate Security,",1,bec_fraud
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #46190] Thank you,",1,suspicious
+"Urgent: Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #6623] Finance Department,",1,phishing
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #26892] Thank you,",1,phishing
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #73242] Finance Department,",1,phishing
+"Attention, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #78155] Corporate Security,",1,phishing
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #44619] Thank you,",1,suspicious
+"Urgent: Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #43999] Thank you,",1,bec_fraud
+"Dear User, Please find attached the financial statements and quarterly audit report for your review. [Ref: #14733] Best regards,",0,legitimate
+"Urgent: I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #65586] Corporate Security,",0,legitimate
+"Good morning, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #31293] Best regards,",1,suspicious
+"Dear User, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #98298] Best regards,",1,impersonation
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #4933] Best regards,",1,phishing
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #16940] Corporate Security,",1,phishing
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #70969] Thank you,",1,phishing
+"Good morning, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #86026] Corporate Security,",1,impersonation
+"Dear User, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #72678] Thank you,",1,bec_fraud
+"Attention, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #41986] Finance Department,",1,phishing
+"Urgent: Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #82229] Finance Department,",0,legitimate
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #68424] Sincerely,",1,phishing
+"Attention, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #54822] Finance Department,",0,legitimate
+"Dear User, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #94913] Sincerely,",1,impersonation
+"Good morning, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #8002] Best regards,",1,bec_fraud
+"Urgent: URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #77410] Best regards,",1,bec_fraud
+"Hi, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #96534] Sincerely,",1,impersonation
+"Good morning, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #90441] Finance Department,",0,legitimate
+"Hello, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #95636] Sincerely,",0,legitimate
+"Urgent: Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #13840] Sincerely,",1,phishing
+"Hello, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #19447] Thank you,",1,impersonation
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #15287] Thank you,",1,phishing
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #9823] Thank you,",1,phishing
+"Urgent: Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #70280] Best regards,",0,legitimate
+"Urgent: Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #4701] Thank you,",1,suspicious
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #88632] Thank you,",1,suspicious
+"Good morning, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #7297] Sincerely,",1,impersonation
+"Attention, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #62757] Finance Department,",1,bec_fraud
+"Attention, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #15001] Finance Department,",0,legitimate
+"Hi, Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #10895] Finance Department,",0,legitimate
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #26362] Best regards,",1,phishing
+"Dear User, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #51450] Finance Department,",1,bec_fraud
+"Urgent: Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #98818] Best regards,",1,bec_fraud
+"Dear User, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #48148] Best regards,",1,suspicious
+"Urgent: Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #48119] Sincerely,",0,legitimate
+"Attention, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #52425] Best regards,",1,bec_fraud
+"Hi, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #27424] Sincerely,",0,legitimate
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #68009] Finance Department,",1,suspicious
+"Good morning, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #17948] Thank you,",1,suspicious
+"Urgent: Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #14445] Sincerely,",1,phishing
+"Dear User, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #46984] Sincerely,",1,bec_fraud
+"Urgent: Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #74139] Sincerely,",1,phishing
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #91925] Sincerely,",1,bec_fraud
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #57275] Best regards,",1,phishing
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #88986] Corporate Security,",1,suspicious
+"Attention, Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #26599] Corporate Security,",0,legitimate
+"Good morning, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #79868] Thank you,",1,phishing
+"Dear User, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #18476] Sincerely,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #22523] Sincerely,",1,phishing
+"Attention, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #56877] Corporate Security,",1,bec_fraud
+"Dear User, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #68575] Thank you,",1,phishing
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #23810] Sincerely,",1,suspicious
+"Attention, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #67278] Best regards,",0,legitimate
+"Dear User, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #20822] Thank you,",0,legitimate
+"Dear User, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #80602] Thank you,",1,bec_fraud
+"Attention, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #78420] Finance Department,",1,bec_fraud
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #38353] Thank you,",1,phishing
+"Hi, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #27586] Corporate Security,",1,impersonation
+"Urgent: Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #74542] Best regards,",1,impersonation
+"Good morning, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #87673] Corporate Security,",0,legitimate
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #49173] Finance Department,",1,suspicious
+"Hi, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #22397] Finance Department,",1,suspicious
+"Attention, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #65251] Finance Department,",1,impersonation
+"Hello, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #31503] Sincerely,",1,bec_fraud
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #64756] Finance Department,",1,phishing
+"Hi, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #61909] Best regards,",1,impersonation
+"Hi, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #84758] Corporate Security,",1,suspicious
+"Hi, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #13612] Finance Department,",0,legitimate
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #59286] Sincerely,",1,bec_fraud
+"Hi, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #26726] Finance Department,",1,suspicious
+"Good morning, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #94548] Finance Department,",1,suspicious
+"Hello, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #62041] Sincerely,",1,bec_fraud
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #25436] Finance Department,",1,bec_fraud
+"Attention, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #71314] Thank you,",1,phishing
+"Hello, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #44885] Best regards,",1,impersonation
+"Hello, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #60449] Finance Department,",1,bec_fraud
+"Urgent: PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #9080] Corporate Security,",1,impersonation
+"Good morning, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #20152] Best regards,",1,impersonation
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #88342] Corporate Security,",1,suspicious
+"Urgent: Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #63350] Best regards,",1,suspicious
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #46370] Corporate Security,",1,phishing
+"Urgent: Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #71143] Thank you,",1,impersonation
+"Dear User, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #57265] Thank you,",1,bec_fraud
+"Good morning, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #67296] Sincerely,",1,phishing
+"Attention, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #28306] Sincerely,",1,phishing
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #75515] Corporate Security,",1,phishing
+"Urgent: The weekly engineering newsletter is now available on our internal wiki page. [Ref: #14670] Sincerely,",0,legitimate
+"Good morning, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #30810] Best regards,",0,legitimate
+"Hello, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #89707] Best regards,",1,phishing
+"Hi, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #82795] Sincerely,",1,impersonation
+"Attention, Please find attached the financial statements and quarterly audit report for your review. [Ref: #51427] Corporate Security,",0,legitimate
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #24248] Thank you,",1,suspicious
+"Hello, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #44073] Corporate Security,",1,bec_fraud
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #45786] Best regards,",1,suspicious
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #19030] Best regards,",1,bec_fraud
+"Good morning, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #65960] Thank you,",1,bec_fraud
+"Good morning, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #93682] Corporate Security,",1,suspicious
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #66874] Thank you,",1,bec_fraud
+"Attention, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #14647] Corporate Security,",1,phishing
+"Hello, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #36420] Corporate Security,",1,impersonation
+"Good morning, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #81724] Best regards,",1,suspicious
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #68318] Sincerely,",1,bec_fraud
+"Urgent: Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #86458] Sincerely,",1,impersonation
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #96052] Sincerely,",1,suspicious
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #85289] Best regards,",1,suspicious
+"Urgent: Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #27834] Finance Department,",1,impersonation
+"Attention, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #6625] Best regards,",1,suspicious
+"Dear User, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #9983] Corporate Security,",1,phishing
+"Hello, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #78974] Thank you,",0,legitimate
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #82832] Finance Department,",1,impersonation
+"Hi, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #82701] Finance Department,",0,legitimate
+"Good morning, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #80325] Finance Department,",1,impersonation
+"Good morning, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #5305] Corporate Security,",0,legitimate
+"Hi, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #77531] Corporate Security,",1,phishing
+"Attention, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #38859] Best regards,",1,impersonation
+"Hello, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #32844] Best regards,",1,phishing
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #68094] Sincerely,",1,phishing
+"Attention, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #28627] Finance Department,",1,suspicious
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #43735] Thank you,",1,phishing
+"Dear User, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #38374] Corporate Security,",0,legitimate
+"Good morning, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #3112] Thank you,",1,phishing
+"Dear User, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #97478] Sincerely,",0,legitimate
+"Hello, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #31670] Thank you,",1,bec_fraud
+"Urgent: Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #61186] Sincerely,",0,legitimate
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #75900] Finance Department,",1,phishing
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #91933] Thank you,",1,phishing
+"Good morning, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #19989] Finance Department,",0,legitimate
+"Urgent: Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #47537] Sincerely,",1,impersonation
+"Attention, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #82397] Sincerely,",1,phishing
+"Urgent: Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #25462] Corporate Security,",1,suspicious
+"Attention, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #34693] Thank you,",1,phishing
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #71486] Sincerely,",1,bec_fraud
+"Urgent: Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #58005] Corporate Security,",1,bec_fraud
+"Hi, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #82038] Thank you,",1,phishing
+"Urgent: Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #76010] Best regards,",0,legitimate
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #12932] Thank you,",1,suspicious
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #76339] Sincerely,",1,bec_fraud
+"Attention, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #14655] Sincerely,",1,bec_fraud
+"Hello, Following up on our discussion last week regarding the database migration timeline. [Ref: #73543] Corporate Security,",0,legitimate
+"Hello, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #84913] Thank you,",0,legitimate
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #97478] Corporate Security,",1,phishing
+"Attention, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #12778] Thank you,",1,phishing
+"Attention, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #72709] Thank you,",1,suspicious
+"Attention, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #49395] Corporate Security,",1,suspicious
+"Attention, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #28586] Corporate Security,",1,suspicious
+"Urgent: FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #34434] Finance Department,",1,impersonation
+"Urgent: Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #27408] Thank you,",1,suspicious
+"Hello, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #90931] Corporate Security,",1,impersonation
+"Dear User, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #19303] Best regards,",1,phishing
+"Attention, The code for the new authentication feature has been merged into the develop branch. [Ref: #80201] Corporate Security,",0,legitimate
+"Dear User, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #30967] Corporate Security,",1,suspicious
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #1743] Finance Department,",1,bec_fraud
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #58397] Finance Department,",1,suspicious
+"Attention, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #8062] Corporate Security,",1,impersonation
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #86509] Finance Department,",1,bec_fraud
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #82398] Thank you,",1,impersonation
+"Hi, The code for the new authentication feature has been merged into the develop branch. [Ref: #69228] Thank you,",0,legitimate
+"Dear User, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #1796] Corporate Security,",1,suspicious
+"Hi, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #9287] Finance Department,",0,legitimate
+"Hi, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #83502] Finance Department,",1,phishing
+"Attention, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #25500] Finance Department,",1,suspicious
+"Attention, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #60791] Best regards,",0,legitimate
+"Attention, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #97185] Finance Department,",1,bec_fraud
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #57872] Thank you,",1,bec_fraud
+"Attention, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #84809] Finance Department,",0,legitimate
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #81533] Corporate Security,",1,suspicious
+"Urgent: Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #49154] Thank you,",1,suspicious
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #70368] Finance Department,",1,impersonation
+"Dear User, Please find attached the financial statements and quarterly audit report for your review. [Ref: #50439] Best regards,",0,legitimate
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #68743] Corporate Security,",1,phishing
+"Dear User, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #12536] Corporate Security,",1,impersonation
+"Attention, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #98751] Thank you,",1,suspicious
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #46800] Sincerely,",1,bec_fraud
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #64414] Thank you,",1,impersonation
+"Attention, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #62318] Best regards,",1,bec_fraud
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #41926] Best regards,",1,phishing
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #55532] Corporate Security,",1,phishing
+"Hi, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #71024] Corporate Security,",1,suspicious
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #24857] Finance Department,",1,suspicious
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #94021] Corporate Security,",1,bec_fraud
+"Urgent: Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #17884] Best regards,",1,phishing
+"Attention, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #80666] Sincerely,",1,suspicious
+"Hello, Please find attached the financial statements and quarterly audit report for your review. [Ref: #71993] Thank you,",0,legitimate
+"Dear User, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #10428] Corporate Security,",1,suspicious
+"Good morning, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #42630] Thank you,",1,impersonation
+"Good morning, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #54680] Best regards,",0,legitimate
+"Good morning, Don't forget to submit your timesheets and expense reports by Friday at 5 PM. [Ref: #70324] Finance Department,",0,legitimate
+"Attention, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #84041] Sincerely,",1,suspicious
+"Urgent: Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #82181] Corporate Security,",1,impersonation
+"Hello, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #3372] Corporate Security,",1,phishing
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #61247] Corporate Security,",1,impersonation
+"Hello, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #6537] Best regards,",1,suspicious
+"Good morning, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #2050] Thank you,",1,impersonation
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #43397] Thank you,",1,bec_fraud
+"Hi, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #1609] Sincerely,",1,bec_fraud
+"Hi, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #26968] Thank you,",0,legitimate
+"Dear User, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #19539] Finance Department,",1,suspicious
+"Urgent: Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #89712] Sincerely,",0,legitimate
+"Urgent: Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #78588] Thank you,",0,legitimate
+"Hello, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #17615] Thank you,",1,bec_fraud
+"Hello, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #28392] Corporate Security,",1,phishing
+"Attention, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #42995] Sincerely,",1,phishing
+"Good morning, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #67706] Best regards,",1,bec_fraud
+"Hi, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #11671] Finance Department,",1,bec_fraud
+"Attention, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #82735] Sincerely,",1,phishing
+"Good morning, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #44506] Thank you,",1,impersonation
+"Urgent: Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #25112] Best regards,",1,phishing
+"Dear User, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #38241] Finance Department,",0,legitimate
+"Attention, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #94860] Corporate Security,",1,suspicious
+"Hi, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #60541] Corporate Security,",1,suspicious
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #38674] Corporate Security,",1,phishing
+"Good morning, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #82556] Sincerely,",1,impersonation
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #72660] Thank you,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #54605] Thank you,",1,phishing
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #95651] Corporate Security,",1,bec_fraud
+"Urgent: Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #61113] Finance Department,",1,suspicious
+"Good morning, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #59399] Corporate Security,",1,suspicious
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #53867] Corporate Security,",1,impersonation
+"Dear User, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #30478] Sincerely,",0,legitimate
+"Hi, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #43999] Best regards,",1,suspicious
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #3418] Best regards,",1,impersonation
+"Urgent: Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #40284] Sincerely,",1,suspicious
+"Good morning, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #59912] Thank you,",1,impersonation
+"Hello, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #92050] Sincerely,",1,bec_fraud
+"Urgent: Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #70230] Corporate Security,",1,suspicious
+"Urgent: Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #24820] Thank you,",1,impersonation
+"Hi, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #49974] Sincerely,",1,phishing
+"Attention, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #90554] Corporate Security,",1,bec_fraud
+"Good morning, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #64655] Thank you,",0,legitimate
+"Attention, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #89642] Best regards,",1,suspicious
+"Dear User, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #66318] Finance Department,",0,legitimate
+"Hi, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #89474] Sincerely,",1,phishing
+"Good morning, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #64034] Sincerely,",1,impersonation
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #43887] Best regards,",1,phishing
+"Good morning, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #50289] Best regards,",1,impersonation
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #91455] Best regards,",1,impersonation
+"Dear User, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #7871] Finance Department,",0,legitimate
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #60509] Corporate Security,",1,bec_fraud
+"Hello, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #39349] Thank you,",1,bec_fraud
+"Dear User, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #3544] Finance Department,",1,phishing
+"Good morning, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #82265] Best regards,",0,legitimate
+"Dear User, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #88289] Best regards,",1,phishing
+"Hi, Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #41800] Corporate Security,",0,legitimate
+"Urgent: Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #1091] Finance Department,",1,phishing
+"Urgent: FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #26044] Corporate Security,",1,impersonation
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #39012] Finance Department,",1,bec_fraud
+"Hello, Don't forget to submit your timesheets and expense reports by Friday at 5 PM. [Ref: #7108] Best regards,",0,legitimate
+"Good morning, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #67052] Corporate Security,",1,impersonation
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #41792] Corporate Security,",1,suspicious
+"Good morning, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #4679] Sincerely,",1,bec_fraud
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #79851] Sincerely,",1,phishing
+"Dear User, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #54984] Corporate Security,",1,impersonation
+"Hello, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #19287] Corporate Security,",1,bec_fraud
+"Dear User, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #29251] Best regards,",0,legitimate
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #28159] Best regards,",1,bec_fraud
+"Dear User, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #78726] Thank you,",0,legitimate
+"Hello, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #88270] Finance Department,",0,legitimate
+"Dear User, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #52122] Thank you,",1,bec_fraud
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #10941] Best regards,",1,suspicious
+"Hello, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #81018] Corporate Security,",1,phishing
+"Hi, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #81859] Thank you,",1,bec_fraud
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #41969] Corporate Security,",1,suspicious
+"Urgent: Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #40265] Best regards,",1,bec_fraud
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #47128] Finance Department,",1,impersonation
+"Good morning, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #89085] Finance Department,",1,suspicious
+"Hi, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #46083] Corporate Security,",0,legitimate
+"Urgent: All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #90670] Corporate Security,",0,legitimate
+"Hello, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #49632] Best regards,",1,bec_fraud
+"Attention, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #21118] Sincerely,",1,bec_fraud
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #57741] Thank you,",1,phishing
+"Dear User, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #5787] Best regards,",1,impersonation
+"Dear User, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #67919] Best regards,",1,bec_fraud
+"Urgent: Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #22937] Thank you,",1,bec_fraud
+"Hi, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #77417] Thank you,",1,suspicious
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #18336] Sincerely,",1,impersonation
+"Hi, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #30484] Thank you,",1,bec_fraud
+"Hello, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #41251] Best regards,",1,phishing
+"Urgent: Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #77133] Finance Department,",1,phishing
+"Good morning, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #66095] Thank you,",1,suspicious
+"Dear User, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #61296] Thank you,",1,suspicious
+"Urgent: Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #75010] Sincerely,",0,legitimate
+"Hi, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #27361] Corporate Security,",1,impersonation
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #74705] Finance Department,",1,suspicious
+"Hello, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #96286] Thank you,",1,suspicious
+"Hello, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #45809] Corporate Security,",1,impersonation
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #93118] Finance Department,",1,impersonation
+"Hi, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #85434] Finance Department,",1,bec_fraud
+"Hi, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #84966] Finance Department,",1,phishing
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #96011] Finance Department,",1,suspicious
+"Attention, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #70875] Corporate Security,",1,bec_fraud
+"Hello, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #10566] Thank you,",1,phishing
+"Hi, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #62044] Best regards,",1,phishing
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #93940] Corporate Security,",1,suspicious
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #20837] Best regards,",1,bec_fraud
+"Urgent: Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #43259] Finance Department,",1,bec_fraud
+"Hi, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #9370] Best regards,",1,suspicious
+"Hello, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #54355] Thank you,",1,suspicious
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #95493] Corporate Security,",1,impersonation
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #69234] Thank you,",1,phishing
+"Urgent: Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #40231] Corporate Security,",0,legitimate
+"Good morning, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #35520] Corporate Security,",1,phishing
+"Hi, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #21584] Corporate Security,",1,bec_fraud
+"Dear User, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #11089] Thank you,",1,bec_fraud
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #92224] Sincerely,",1,phishing
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #24578] Corporate Security,",1,bec_fraud
+"Hello, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #21621] Sincerely,",1,suspicious
+"Hi, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #91968] Best regards,",0,legitimate
+"Good morning, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #35356] Best regards,",1,impersonation
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #42915] Corporate Security,",1,impersonation
+"Dear User, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #28471] Thank you,",1,bec_fraud
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #34426] Thank you,",1,phishing
+"Attention, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #27084] Corporate Security,",1,phishing
+"Dear User, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #12501] Corporate Security,",1,suspicious
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #43666] Finance Department,",1,phishing
+"Hi, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #31161] Sincerely,",1,bec_fraud
+"Dear User, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #85613] Thank you,",1,suspicious
+"Urgent: Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #29325] Thank you,",1,bec_fraud
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #9447] Best regards,",1,impersonation
+"Dear User, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #5842] Finance Department,",1,impersonation
+"Good morning, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #21047] Corporate Security,",1,suspicious
+"Hello, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #6345] Best regards,",1,phishing
+"Good morning, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #6023] Finance Department,",1,suspicious
+"Hi, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #8260] Corporate Security,",1,suspicious
+"Attention, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #91782] Best regards,",1,impersonation
+"Attention, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #72198] Sincerely,",1,bec_fraud
+"Hello, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #6428] Best regards,",1,phishing
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #65675] Best regards,",1,phishing
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #33207] Thank you,",1,impersonation
+"Good morning, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #65083] Sincerely,",0,legitimate
+"Urgent: Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #44431] Finance Department,",1,phishing
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #45369] Corporate Security,",1,phishing
+"Attention, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #53129] Corporate Security,",0,legitimate
+"Hi, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #76710] Thank you,",1,suspicious
+"Hi, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #61381] Finance Department,",1,bec_fraud
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #63636] Corporate Security,",1,phishing
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #50805] Thank you,",1,suspicious
+"Hi, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #95536] Finance Department,",1,impersonation
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #55498] Thank you,",1,impersonation
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #82192] Sincerely,",1,suspicious
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #12906] Sincerely,",1,phishing
+"Dear User, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #6866] Sincerely,",0,legitimate
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #42965] Finance Department,",1,bec_fraud
+"Hi, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #63085] Finance Department,",1,suspicious
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #45527] Finance Department,",1,suspicious
+"Urgent: Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #43040] Sincerely,",0,legitimate
+"Hello, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #37621] Thank you,",1,impersonation
+"Hello, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #68525] Corporate Security,",0,legitimate
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #89133] Finance Department,",1,bec_fraud
+"Urgent: Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #15434] Best regards,",0,legitimate
+"Hi, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #19033] Corporate Security,",1,suspicious
+"Urgent: Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #69937] Thank you,",1,suspicious
+"Dear User, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #82332] Sincerely,",1,impersonation
+"Dear User, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #8997] Best regards,",0,legitimate
+"Good morning, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #27729] Corporate Security,",0,legitimate
+"Attention, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #7680] Finance Department,",1,impersonation
+"Good morning, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #99722] Best regards,",1,bec_fraud
+"Dear User, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #65845] Thank you,",1,suspicious
+"Hi, The code for the new authentication feature has been merged into the develop branch. [Ref: #26582] Corporate Security,",0,legitimate
+"Good morning, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #26331] Corporate Security,",1,phishing
+"Hello, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #59744] Corporate Security,",1,bec_fraud
+"Hi, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #59667] Best regards,",1,suspicious
+"Hi, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #52579] Sincerely,",1,bec_fraud
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #43964] Sincerely,",1,phishing
+"Hi, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #98417] Corporate Security,",1,suspicious
+"Good morning, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #45683] Corporate Security,",1,suspicious
+"Hello, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #30194] Sincerely,",0,legitimate
+"Hi, Please find attached the financial statements and quarterly audit report for your review. [Ref: #84596] Best regards,",0,legitimate
+"Hello, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #97086] Sincerely,",1,suspicious
+"Hi, Please find attached the financial statements and quarterly audit report for your review. [Ref: #47716] Best regards,",0,legitimate
+"Urgent: Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #81939] Finance Department,",0,legitimate
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #65503] Thank you,",1,phishing
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #6941] Finance Department,",1,phishing
+"Urgent: Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #26733] Thank you,",1,impersonation
+"Urgent: Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #11353] Best regards,",1,phishing
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #9924] Corporate Security,",1,impersonation
+"Urgent: Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #8950] Thank you,",1,bec_fraud
+"Attention, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #14365] Corporate Security,",0,legitimate
+"Attention, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #11250] Best regards,",1,impersonation
+"Good morning, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #80043] Best regards,",1,bec_fraud
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #42051] Thank you,",1,phishing
+"Urgent: Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #49895] Sincerely,",1,phishing
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #39859] Sincerely,",1,suspicious
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #90256] Corporate Security,",1,bec_fraud
+"Good morning, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #39215] Corporate Security,",1,suspicious
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #77813] Sincerely,",1,suspicious
+"Good morning, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #27408] Sincerely,",0,legitimate
+"Hi, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #42566] Sincerely,",1,bec_fraud
+"Hi, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #67502] Thank you,",1,bec_fraud
+"Attention, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #39398] Finance Department,",0,legitimate
+"Attention, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #78600] Best regards,",1,impersonation
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #75541] Corporate Security,",1,impersonation
+"Hello, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #75101] Thank you,",1,bec_fraud
+"Hello, Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #27563] Thank you,",0,legitimate
+"Urgent: PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #21089] Finance Department,",1,impersonation
+"Dear User, Following up on our discussion last week regarding the database migration timeline. [Ref: #42202] Sincerely,",0,legitimate
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #54878] Corporate Security,",1,phishing
+"Hello, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #26821] Thank you,",1,bec_fraud
+"Dear User, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #9612] Best regards,",1,bec_fraud
+"Hello, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #70689] Sincerely,",1,phishing
+"Good morning, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #37487] Best regards,",1,impersonation
+"Urgent: You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #9159] Thank you,",1,suspicious
+"Urgent: Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #60597] Best regards,",1,phishing
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #87242] Best regards,",1,impersonation
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #36325] Sincerely,",1,suspicious
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #85479] Thank you,",1,phishing
+"Urgent: Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #79692] Sincerely,",0,legitimate
+"Urgent: Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #18165] Best regards,",1,suspicious
+"Dear User, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #46364] Best regards,",1,impersonation
+"Hi, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #80408] Sincerely,",0,legitimate
+"Hi, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #22275] Thank you,",1,suspicious
+"Hello, Could you please share the API documentation and swagger specs for the billing service? [Ref: #41396] Finance Department,",0,legitimate
+"Good morning, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #86068] Finance Department,",0,legitimate
+"Hello, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #82046] Best regards,",1,bec_fraud
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #5916] Finance Department,",1,phishing
+"Hi, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #35475] Sincerely,",1,phishing
+"Hello, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #66962] Best regards,",0,legitimate
+"Hi, Please find attached the financial statements and quarterly audit report for your review. [Ref: #41057] Best regards,",0,legitimate
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #62940] Sincerely,",1,bec_fraud
+"Good morning, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #27311] Sincerely,",1,impersonation
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #33901] Finance Department,",1,impersonation
+"Attention, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #78749] Corporate Security,",1,phishing
+"Hi, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #45501] Sincerely,",1,impersonation
+"Dear User, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #95299] Best regards,",1,phishing
+"Urgent: Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #35753] Finance Department,",0,legitimate
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #22423] Finance Department,",1,suspicious
+"Urgent: Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #16592] Finance Department,",1,phishing
+"Good morning, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #92265] Thank you,",0,legitimate
+"Good morning, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #87070] Sincerely,",1,impersonation
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #20388] Thank you,",1,suspicious
+"Dear User, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #24225] Thank you,",1,suspicious
+"Urgent: Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #88945] Finance Department,",0,legitimate
+"Dear User, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #69333] Finance Department,",1,impersonation
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #8632] Thank you,",1,phishing
+"Hi, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #1105] Best regards,",0,legitimate
+"Attention, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #51910] Finance Department,",1,bec_fraud
+"Dear User, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #6122] Corporate Security,",1,suspicious
+"Hi, Following up on our discussion last week regarding the database migration timeline. [Ref: #94916] Corporate Security,",0,legitimate
+"Attention, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #85563] Corporate Security,",0,legitimate
+"Dear User, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #8716] Sincerely,",1,impersonation
+"Good morning, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #61659] Finance Department,",1,suspicious
+"Dear User, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #22686] Sincerely,",1,bec_fraud
+"Dear User, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #71404] Thank you,",1,impersonation
+"Attention, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #34594] Thank you,",0,legitimate
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #84002] Thank you,",1,bec_fraud
+"Good morning, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #18281] Best regards,",1,bec_fraud
+"Urgent: DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #89748] Best regards,",1,impersonation
+"Good morning, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #24096] Thank you,",1,suspicious
+"Hi, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #35142] Sincerely,",1,phishing
+"Hello, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #99992] Thank you,",1,impersonation
+"Hi, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #29483] Thank you,",1,bec_fraud
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #83818] Sincerely,",1,phishing
+"Hello, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #79707] Finance Department,",1,suspicious
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #41512] Thank you,",1,suspicious
+"Good morning, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #71674] Thank you,",1,suspicious
+"Hello, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #21294] Finance Department,",1,phishing
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #14125] Corporate Security,",1,suspicious
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #44374] Best regards,",1,bec_fraud
+"Attention, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #80512] Corporate Security,",1,phishing
+"Hello, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #32604] Best regards,",1,impersonation
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #55609] Thank you,",1,bec_fraud
+"Hi, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #71545] Corporate Security,",1,impersonation
+"Hello, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #69144] Sincerely,",0,legitimate
+"Hi, Here are the meeting notes and transcripts from yesterday's retrospective session. [Ref: #70313] Finance Department,",0,legitimate
+"Hi, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #97295] Sincerely,",1,impersonation
+"Dear User, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #17030] Best regards,",1,impersonation
+"Attention, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #57734] Corporate Security,",1,bec_fraud
+"Hello, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #49162] Finance Department,",0,legitimate
+"Hello, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #83887] Finance Department,",0,legitimate
+"Good morning, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #75799] Corporate Security,",1,phishing
+"Attention, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #65599] Finance Department,",1,phishing
+"Good morning, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #68020] Sincerely,",1,suspicious
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #27852] Finance Department,",1,suspicious
+"Dear User, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #22315] Sincerely,",1,impersonation
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #35062] Finance Department,",1,impersonation
+"Hello, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #7337] Sincerely,",0,legitimate
+"Hi, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #45343] Thank you,",1,suspicious
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #74425] Sincerely,",1,phishing
+"Hi, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #22191] Corporate Security,",0,legitimate
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #43669] Finance Department,",1,bec_fraud
+"Attention, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #80657] Corporate Security,",1,phishing
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #3884] Best regards,",1,bec_fraud
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #91309] Sincerely,",1,bec_fraud
+"Urgent: You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #27777] Best regards,",1,suspicious
+"Hi, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #48259] Best regards,",1,bec_fraud
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #82214] Finance Department,",1,impersonation
+"Attention, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #9544] Corporate Security,",1,impersonation
+"Hi, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #64699] Best regards,",1,impersonation
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #38035] Best regards,",1,impersonation
+"Good morning, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #69647] Finance Department,",1,bec_fraud
+"Good morning, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #95721] Finance Department,",0,legitimate
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #81573] Finance Department,",1,impersonation
+"Hello, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #47106] Finance Department,",0,legitimate
+"Hello, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #60708] Finance Department,",1,impersonation
+"Urgent: CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #20424] Sincerely,",1,bec_fraud
+"Hi, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #9736] Thank you,",1,suspicious
+"Dear User, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #60460] Best regards,",1,impersonation
+"Attention, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #89797] Corporate Security,",0,legitimate
+"Urgent: Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #21058] Corporate Security,",1,suspicious
+"Attention, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #18759] Corporate Security,",0,legitimate
+"Hello, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #93819] Best regards,",1,phishing
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #53198] Best regards,",1,bec_fraud
+"Good morning, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #33462] Thank you,",1,impersonation
+"Attention, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #87814] Corporate Security,",0,legitimate
+"Hello, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #59777] Sincerely,",0,legitimate
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #14101] Best regards,",1,phishing
+"Good morning, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #31819] Best regards,",0,legitimate
+"Urgent: PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #29994] Finance Department,",1,impersonation
+"Dear User, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #16687] Finance Department,",1,phishing
+"Good morning, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #58034] Thank you,",1,bec_fraud
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #32628] Best regards,",1,impersonation
+"Dear User, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #17394] Finance Department,",1,phishing
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #51371] Thank you,",1,bec_fraud
+"Urgent: PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #35356] Best regards,",1,impersonation
+"Hi, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #84670] Corporate Security,",1,impersonation
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #65690] Sincerely,",1,phishing
+"Attention, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #31420] Sincerely,",0,legitimate
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #83612] Sincerely,",1,suspicious
+"Dear User, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #88185] Finance Department,",1,bec_fraud
+"Dear User, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #14959] Corporate Security,",1,bec_fraud
+"Dear User, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #4305] Sincerely,",1,impersonation
+"Hello, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #67488] Sincerely,",1,phishing
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #71125] Sincerely,",1,impersonation
+"Hi, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #94030] Corporate Security,",0,legitimate
+"Hi, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #95545] Sincerely,",0,legitimate
+"Hello, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #34493] Best regards,",1,suspicious
+"Hi, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #64938] Corporate Security,",1,bec_fraud
+"Dear User, Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #76160] Finance Department,",0,legitimate
+"Urgent: Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #78966] Thank you,",1,impersonation
+"Hi, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #52371] Finance Department,",1,bec_fraud
+"Attention, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #91164] Corporate Security,",1,impersonation
+"Attention, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #11576] Thank you,",1,bec_fraud
+"Urgent: Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #33894] Best regards,",1,phishing
+"Attention, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #1984] Best regards,",1,phishing
+"Hi, DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #47254] Thank you,",1,phishing
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #86585] Corporate Security,",1,bec_fraud
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #89907] Thank you,",1,bec_fraud
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #27455] Finance Department,",1,suspicious
+"Urgent: Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #69950] Corporate Security,",1,bec_fraud
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #44415] Finance Department,",1,phishing
+"Attention, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #79271] Corporate Security,",1,suspicious
+"Hello, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #66358] Thank you,",1,suspicious
+"Hello, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #10948] Sincerely,",0,legitimate
+"Good morning, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #6855] Finance Department,",1,suspicious
+"Urgent: Could you please share the API documentation and swagger specs for the billing service? [Ref: #6300] Corporate Security,",0,legitimate
+"Urgent: Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #93811] Finance Department,",1,bec_fraud
+"Good morning, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #14638] Best regards,",1,suspicious
+"Attention, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #82050] Finance Department,",1,phishing
+"Hi, The code for the new authentication feature has been merged into the develop branch. [Ref: #65107] Finance Department,",0,legitimate
+"Hi, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #69734] Sincerely,",1,impersonation
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #37007] Thank you,",1,bec_fraud
+"Dear User, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #85061] Corporate Security,",1,bec_fraud
+"Dear User, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #68203] Best regards,",0,legitimate
+"Hi, Please submit your travel preferences and flight details for the upcoming conference in Chicago. [Ref: #39588] Sincerely,",0,legitimate
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #6147] Best regards,",1,phishing
+"Dear User, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #45392] Thank you,",1,phishing
+"Hello, Please find attached the financial statements and quarterly audit report for your review. [Ref: #30026] Best regards,",0,legitimate
+"Hi, Don't forget to submit your timesheets and expense reports by Friday at 5 PM. [Ref: #79637] Finance Department,",0,legitimate
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #23892] Sincerely,",1,phishing
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #80003] Corporate Security,",1,impersonation
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #74798] Corporate Security,",1,impersonation
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #5791] Corporate Security,",1,bec_fraud
+"Attention, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #28092] Corporate Security,",1,bec_fraud
+"Attention, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #39090] Corporate Security,",1,bec_fraud
+"Hi, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #79614] Thank you,",1,phishing
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #63447] Thank you,",1,bec_fraud
+"Good morning, Action Required: Your Microsoft 365 password expires today. Click here to keep your current password and prevent email disconnection. [Ref: #19648] Best regards,",1,phishing
+"Hello, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #80097] Best regards,",1,suspicious
+"Hello, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #68527] Thank you,",0,legitimate
+"Dear User, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #17231] Finance Department,",1,phishing
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #17603] Corporate Security,",1,bec_fraud
+"Hi, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #27751] Corporate Security,",1,impersonation
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #29006] Sincerely,",1,bec_fraud
+"Urgent: The weekly engineering newsletter is now available on our internal wiki page. [Ref: #72197] Best regards,",0,legitimate
+"Urgent: Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #35196] Finance Department,",1,bec_fraud
+"Hello, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #2339] Best regards,",0,legitimate
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #74548] Sincerely,",1,suspicious
+"Hello, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #15382] Thank you,",1,impersonation
+"Urgent: Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #44382] Best regards,",1,bec_fraud
+"Good morning, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #94544] Best regards,",0,legitimate
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #40423] Corporate Security,",1,suspicious
+"Good morning, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #21381] Corporate Security,",0,legitimate
+"Urgent: Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #14738] Corporate Security,",1,phishing
+"Good morning, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #72522] Best regards,",1,phishing
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #5023] Corporate Security,",1,suspicious
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #76098] Sincerely,",1,phishing
+"Hi, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #27439] Corporate Security,",1,suspicious
+"Good morning, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #62381] Best regards,",0,legitimate
+"Good morning, Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #43736] Corporate Security,",0,legitimate
+"Attention, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #5884] Finance Department,",1,impersonation
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #80539] Sincerely,",1,impersonation
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #98743] Finance Department,",1,bec_fraud
+"Attention, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #10070] Sincerely,",0,legitimate
+"Dear User, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #13971] Thank you,",1,phishing
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #88187] Thank you,",1,phishing
+"Dear User, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #32319] Finance Department,",1,impersonation
+"Hello, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #77052] Corporate Security,",1,suspicious
+"Urgent: Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #36247] Finance Department,",1,bec_fraud
+"Good morning, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #6795] Sincerely,",1,suspicious
+"Hi, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #79559] Best regards,",1,suspicious
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #80527] Thank you,",1,impersonation
+"Hi, Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #69141] Best regards,",0,legitimate
+"Attention, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #34767] Best regards,",1,bec_fraud
+"Hello, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #19916] Corporate Security,",0,legitimate
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #77023] Corporate Security,",1,suspicious
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #47663] Finance Department,",1,phishing
+"Good morning, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #2638] Thank you,",1,bec_fraud
+"Urgent: Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #39774] Thank you,",1,phishing
+"Dear User, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #90530] Finance Department,",0,legitimate
+"Attention, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #55426] Sincerely,",1,impersonation
+"Attention, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #38915] Sincerely,",1,impersonation
+"Urgent: Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #31707] Sincerely,",1,impersonation
+"Good morning, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #21660] Thank you,",1,phishing
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #42594] Corporate Security,",1,bec_fraud
+"Hello, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #85111] Best regards,",1,bec_fraud
+"Good morning, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #47527] Best regards,",1,bec_fraud
+"Dear User, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #93758] Finance Department,",1,bec_fraud
+"Good morning, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #13779] Thank you,",0,legitimate
+"Good morning, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #7484] Thank you,",1,impersonation
+"Hi, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #31617] Best regards,",1,impersonation
+"Good morning, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #28713] Thank you,",1,bec_fraud
+"Hello, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #5543] Finance Department,",0,legitimate
+"Urgent: Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #46952] Best regards,",1,impersonation
+"Dear User, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #70348] Finance Department,",1,bec_fraud
+"Hello, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #81461] Best regards,",1,bec_fraud
+"Good morning, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #43062] Thank you,",1,phishing
+"Urgent: Could you please share the API documentation and swagger specs for the billing service? [Ref: #90046] Finance Department,",0,legitimate
+"Hi, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #29934] Thank you,",1,phishing
+"Dear User, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #30805] Corporate Security,",0,legitimate
+"Hi, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #26472] Thank you,",1,bec_fraud
+"Dear User, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #30008] Sincerely,",0,legitimate
+"Urgent: Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #97819] Thank you,",1,bec_fraud
+"Urgent: Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #28678] Finance Department,",1,phishing
+"Urgent: Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #13405] Best regards,",0,legitimate
+"Attention, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #82363] Corporate Security,",0,legitimate
+"Good morning, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #24992] Corporate Security,",0,legitimate
+"Hi, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #38057] Best regards,",1,bec_fraud
+"Dear User, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #48244] Best regards,",0,legitimate
+"Dear User, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #61330] Corporate Security,",1,impersonation
+"Urgent: Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #84559] Sincerely,",1,impersonation
+"Hi, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #56226] Thank you,",0,legitimate
+"Dear User, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #98991] Best regards,",1,suspicious
+"Hi, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #61751] Corporate Security,",1,bec_fraud
+"Hi, I have updated the test cases for the integration suite. All unit tests are currently passing. [Ref: #54572] Thank you,",0,legitimate
+"Hi, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #92275] Best regards,",1,suspicious
+"Attention, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #49637] Corporate Security,",0,legitimate
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #37566] Thank you,",1,suspicious
+"Good morning, Bank of America Security Notice: A hold has been placed on your checking account due to suspicious withdrawals. [Ref: #47122] Sincerely,",1,impersonation
+"Hello, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #92968] Corporate Security,",1,phishing
+"Attention, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #18759] Finance Department,",1,suspicious
+"Urgent: Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #85417] Sincerely,",1,phishing
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #68965] Best regards,",1,bec_fraud
+"Attention, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #96718] Finance Department,",1,impersonation
+"Urgent: Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #44348] Corporate Security,",1,suspicious
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #22794] Best regards,",1,suspicious
+"Hi, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #49259] Thank you,",1,phishing
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #85901] Thank you,",1,bec_fraud
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #62890] Sincerely,",1,suspicious
+"Urgent: Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #29374] Sincerely,",1,bec_fraud
+"Hi, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #1911] Best regards,",1,suspicious
+"Dear User, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #82108] Sincerely,",1,suspicious
+"Good morning, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #46789] Finance Department,",0,legitimate
+"Hi, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #84867] Finance Department,",1,bec_fraud
+"Dear User, Please review the attached slide deck before the executive briefing tomorrow morning. [Ref: #88460] Best regards,",0,legitimate
+"Hello, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #92458] Thank you,",1,bec_fraud
+"Dear User, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #29220] Corporate Security,",1,impersonation
+"Hi, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #31787] Corporate Security,",0,legitimate
+"Hello, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #15424] Best regards,",1,impersonation
+"Hi, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #46061] Corporate Security,",1,impersonation
+"Hi, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #28951] Sincerely,",1,phishing
+"Hello, Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #21029] Finance Department,",0,legitimate
+"Attention, Attached is the vendor contract renewal draft. Legal has already signed off on the terms. [Ref: #9748] Finance Department,",0,legitimate
+"Attention, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #16535] Thank you,",1,bec_fraud
+"Dear User, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #51425] Thank you,",1,impersonation
+"Attention, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #40375] Thank you,",0,legitimate
+"Attention, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #81043] Sincerely,",1,suspicious
+"Hello, Security Verification Required: We detected login from Chrome on Windows 10. Click here if this was not you to terminate the session. [Ref: #60253] Finance Department,",1,phishing
+"Urgent: Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #84254] Sincerely,",1,bec_fraud
+"Hello, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #58931] Best regards,",1,bec_fraud
+"Dear User, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #64873] Best regards,",1,bec_fraud
+"Hello, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #84206] Thank you,",1,impersonation
+"Good morning, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #86678] Best regards,",0,legitimate
+"Hello, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #41101] Best regards,",1,bec_fraud
+"Hi, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #10299] Thank you,",1,suspicious
+"Urgent: Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #40976] Best regards,",1,bec_fraud
+"Hi, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #3219] Thank you,",1,impersonation
+"Hello, The weekly engineering newsletter is now available on our internal wiki page. [Ref: #93678] Thank you,",0,legitimate
+"Hi, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #53010] Corporate Security,",1,phishing
+"Hello, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #62358] Corporate Security,",1,suspicious
+"Hello, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #82601] Finance Department,",1,phishing
+"Urgent: Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #41609] Sincerely,",1,impersonation
+"Hi, Urgent Payment Diversion: Please process an outgoing wire transfer of $48,500 to vendor account today before banking cutoff. [Ref: #13165] Finance Department,",1,bec_fraud
+"Good morning, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #84583] Best regards,",1,bec_fraud
+"Urgent: Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #10643] Sincerely,",1,bec_fraud
+"Good morning, Please find attached the financial statements and quarterly audit report for your review. [Ref: #29728] Corporate Security,",0,legitimate
+"Attention, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #30369] Thank you,",0,legitimate
+"Hello, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #44333] Finance Department,",1,impersonation
+"Good morning, CEO Request: I am in a board meeting and cannot take calls. Please process an urgent foreign wire payment and send confirmation receipt. [Ref: #80308] Thank you,",1,bec_fraud
+"Urgent: IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #99971] Best regards,",1,phishing
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #28335] Corporate Security,",1,phishing
+"Good morning, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #8669] Sincerely,",0,legitimate
+"Hi, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #8861] Finance Department,",1,bec_fraud
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #59362] Sincerely,",1,suspicious
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #76160] Finance Department,",1,suspicious
+"Hello, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #25762] Finance Department,",0,legitimate
+"Good morning, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #82694] Corporate Security,",0,legitimate
+"Hello, Let's schedule a 15-minute quick call to discuss the sprint deliverables and QA progress. [Ref: #13533] Corporate Security,",0,legitimate
+"Hello, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #52907] Best regards,",1,bec_fraud
+"Dear User, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #99478] Best regards,",1,bec_fraud
+"Dear User, Immediate reward: Claim your free cryptocurrency airdrop tokens by registering on our reward portal. [Ref: #43639] Finance Department,",1,suspicious
+"Dear User, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #61363] Finance Department,",1,bec_fraud
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #98881] Sincerely,",1,phishing
+"Good morning, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #32502] Corporate Security,",1,phishing
+"Hi, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #59990] Corporate Security,",1,phishing
+"Good morning, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #79325] Best regards,",1,impersonation
+"Hello, DHL Express: Your shipment is pending clearance. Pay customs clearance duty of $4.99 online to schedule delivery. [Ref: #43089] Corporate Security,",1,impersonation
+"Hello, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #50811] Corporate Security,",1,bec_fraud
+"Attention, Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #61296] Best regards,",1,impersonation
+"Attention, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #84580] Corporate Security,",1,suspicious
+"Attention, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #77858] Finance Department,",1,phishing
+"Good morning, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #69820] Corporate Security,",1,phishing
+"Hi, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #60144] Finance Department,",1,bec_fraud
+"Dear User, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #89627] Thank you,",1,suspicious
+"Dear User, Wells Fargo Fraud Department: Immediate action required. Temporary restriction applied to your debit card. [Ref: #33210] Corporate Security,",1,impersonation
+"Hello, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #99063] Thank you,",1,suspicious
+"Hello, System maintenance window is scheduled for this Sunday from 2 AM to 4 AM EST. No downtime expected. [Ref: #44533] Sincerely,",0,legitimate
+"Good morning, Netflix Billing Update: We were unable to authorize your monthly subscription payment. Update your credit card to keep watching. [Ref: #47740] Finance Department,",1,impersonation
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #2028] Best regards,",1,phishing
+"Attention, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #63037] Best regards,",1,impersonation
+"Attention, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #14311] Best regards,",1,bec_fraud
+"Hello, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #51135] Finance Department,",1,suspicious
+"Good morning, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #78437] Corporate Security,",0,legitimate
+"Hello, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #85119] Thank you,",1,impersonation
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #69946] Sincerely,",1,suspicious
+"Hello, PayPal Security Alert: Unauthorized activity detected on your PayPal balance. Verify your identity now to prevent account suspension. [Ref: #88025] Finance Department,",1,impersonation
+"Good morning, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #96777] Best regards,",1,phishing
+"Hello, Attention Accounts Payable: Here are the revised banking details for our software license settlement. Confirm once wire is sent. [Ref: #76456] Sincerely,",1,bec_fraud
+"Urgent: Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #77488] Best regards,",1,suspicious
+"Attention, Revised Bank Coordinates: Please find our updated remittance details for invoice #INV-88219. Disregard previously registered account. [Ref: #89368] Thank you,",1,bec_fraud
+"Hello, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #34159] Corporate Security,",1,bec_fraud
+"Dear User, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #35339] Corporate Security,",1,suspicious
+"Attention, Hi team, attached is the revised project roadmap for Q3 planning. Please review before our sync at 3 PM. [Ref: #87887] Finance Department,",0,legitimate
+"Urgent: Chase Online Banking: We detected multiple failed login attempts on your account. Verify your identity to regain access. [Ref: #8608] Corporate Security,",1,impersonation
+"Hello, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #68447] Thank you,",1,suspicious
+"Attention, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #46505] Finance Department,",1,phishing
+"Hello, IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #28177] Best regards,",1,phishing
+"Attention, Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #58558] Thank you,",1,suspicious
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #71657] Thank you,",1,phishing
+"Urgent: IT Helpdesk Alert: Storage quota exceeded. You have 14 quarantined inbound messages. Click here to review and release them. [Ref: #30641] Best regards,",1,phishing
+"Dear User, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #61810] Best regards,",1,bec_fraud
+"Hi, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #24136] Sincerely,",1,bec_fraud
+"Good morning, Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #58720] Thank you,",0,legitimate
+"Hello, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #36867] Corporate Security,",1,bec_fraud
+"Good morning, Looking forward to catching up at the team lunch this Thursday at noon. [Ref: #2507] Thank you,",0,legitimate
+"Dear User, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #98319] Sincerely,",1,impersonation
+"Dear User, Winner notification: Your email address was selected in our computer ballot drawing for $100,000 USD. [Ref: #20431] Sincerely,",1,suspicious
+"Attention, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #20506] Thank you,",0,legitimate
+"Attention, The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #48631] Finance Department,",0,legitimate
+"Attention, You have won the international charity lottery sweepstakes. Reply with your bank details to claim your prize. [Ref: #96666] Corporate Security,",1,suspicious
+"Urgent: DocuSign: Please review and electronically sign 'Confidential Non-Disclosure Agreement.pdf' using your email credentials. [Ref: #4689] Sincerely,",1,phishing
+"Hi, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #55469] Best regards,",1,impersonation
+"Good morning, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #25650] Corporate Security,",1,bec_fraud
+"Hello, Great job on the presentation today! The stakeholders were very impressed with the demo. [Ref: #80413] Sincerely,",0,legitimate
+"Dear User, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #76316] Best regards,",1,phishing
+"Good morning, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #38864] Finance Department,",1,suspicious
+"Hello, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #22420] Corporate Security,",1,bec_fraud
+"Dear User, Executive Authorization: Please initiate a wire transfer of $72,000 for emergency consulting services rendered this month. [Ref: #87447] Sincerely,",1,bec_fraud
+"Urgent: Please find attached the financial statements and quarterly audit report for your review. [Ref: #24337] Finance Department,",0,legitimate
+"Dear User, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #85152] Finance Department,",1,impersonation
+"Attention, Important Document Shared: Sarah Jenkins shared 'Q3_Confidential_Financials.pdf' with you on SharePoint. Sign in to view document. [Ref: #40633] Sincerely,",1,phishing
+"Hi, Adobe Acrobat Cloud: An encrypted document has been sent to you. Enter your work email password to decrypt and view file. [Ref: #11937] Thank you,",1,phishing
+"Urgent: Schedule for campus recruitment drives and semester exams has been published on the student portal. [Ref: #60499] Thank you,",0,legitimate
+"Dear User, Google Workspace Alert: Your Google account password was recently changed. If you did not make this change, secure your account. [Ref: #92201] Thank you,",1,phishing
+"Hi, Welcome to the team! Here is your onboarding checklist and links to your software credentials. [Ref: #40756] Corporate Security,",0,legitimate
+"Dear User, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #45004] Sincerely,",1,bec_fraud
+"Attention, FedEx Delivery Alert: Tracking #FX-983120 is held at our distribution center. Confirm your identity to release shipment. [Ref: #11720] Thank you,",1,impersonation
+"Hi, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #53138] Best regards,",1,suspicious
+"Hi, Exclusive offer: Earn up to $5,000 weekly working from home with no experience necessary. Sign up today! [Ref: #17319] Corporate Security,",1,suspicious
+"Attention, Invoice #48291 is overdue. Please remit wire payment immediately to avoid legal escalation and penalty charges. [Ref: #70971] Finance Department,",1,bec_fraud
+"Attention, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #25607] Finance Department,",1,phishing
+"Urgent: Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #58361] Sincerely,",1,phishing
+"Hello, Special promotional discount: 90% off all designer watches and luxury goods for the next 2 hours only! [Ref: #82320] Sincerely,",1,suspicious
+"Urgent: Reminder: Team weekly standup meeting tomorrow at 10 AM in Conference Room B. [Ref: #53567] Thank you,",0,legitimate
+"Hi, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #76331] Best regards,",1,impersonation
+"Attention, Human Resources: The 2026 Employee Health & Benefits Enrollment is now open. Log in to your employee portal to select your plan. [Ref: #17519] Thank you,",1,phishing
+"Good morning, Congratulations! You are the lucky visitor of the day. Complete this 30-second survey to claim your prize. [Ref: #55559] Finance Department,",1,suspicious
+"Good morning, Your corporate email account will be deactivated within 6 hours due to server migration. Confirm your mailbox credentials now. [Ref: #20635] Corporate Security,",1,phishing
+"Hi, Payroll Direct Deposit Change: Please update my bank account on file for upcoming payroll direct deposit to the following routing number. [Ref: #37161] Corporate Security,",1,bec_fraud
+"Dear User, Your package could not be delivered due to an incorrect postal address. Click here to reschedule delivery. [Ref: #87927] Sincerely,",1,suspicious
+"Dear User, Vendor Remittance Update: Our primary bank is currently under audit. Please redirect all pending invoice disbursements to our new account. [Ref: #19048] Thank you,",1,bec_fraud
+"Hello, Hi Alice, I will be working remotely tomorrow due to scheduled maintenance at the office. [Ref: #76269] Finance Department,",0,legitimate
+"Attention, Confidential Acquisition: We are closing a private transaction today. Process the attached wire transfer and do not discuss with colleagues. [Ref: #94151] Best regards,",1,bec_fraud
+"Hi, Your Amazon Prime subscription has been suspended due to a billing issue. Update your payment details immediately. [Ref: #75671] Corporate Security,",1,impersonation
+"Good morning, You have an unclaimed cash package waiting at customs. Provide your delivery coordinates immediately. [Ref: #21514] Thank you,",1,suspicious
+"Urgent: Here is the summary of the client meeting earlier today. Action items are assigned in Jira. [Ref: #82935] Sincerely,",0,legitimate
+"Hello, Could you please share the API documentation and swagger specs for the billing service? [Ref: #12983] Thank you,",0,legitimate
+"Urgent: The code for the new authentication feature has been merged into the develop branch. [Ref: #39752] Sincerely,",0,legitimate
+"Good morning, Payroll Department: Please log in to the employee self-service portal to review your W-2 tax forms and direct deposit information. [Ref: #15570] Thank you,",1,phishing
+"Hello, All regular classes and lab sessions will resume as per schedule on Monday morning. [Ref: #96864] Corporate Security,",0,legitimate
+"Attention, URGENT: Confidential wire transfer instructions. Are you at your desk right now? We need to settle acquisition payment immediately. [Ref: #89699] Corporate Security,",1,bec_fraud
+"Hello, Thanks for the update. I will review the architecture proposal and get back to you with comments. [Ref: #34611] Best regards,",0,legitimate
+"Hi, Congratulations! You have been selected to receive a $500 Amazon Gift Card. Claim your reward now! [Ref: #83981] Sincerely,",1,suspicious
+"Urgent: Your Walmart shopping voucher is expiring within 24 hours. Click the link below to redeem. [Ref: #17973] Corporate Security,",1,suspicious
+"Good morning, Microsoft Account Team: Unusual sign-in activity from an unrecognized IP address in Moscow, Russia. Secure your account now. [Ref: #42020] Finance Department,",1,impersonation
+"Attention, Apple Support: Your iCloud storage has been locked. Verify your Apple ID credentials to restore your backup data. [Ref: #50238] Thank you,",1,impersonation
+"Urgent: The invoice for the cloud hosting services rendered last month has been received and approved by finance. [Ref: #73814] Sincerely,",0,legitimate
+"Attention, Good morning. Can you please review the attached document and provide your feedback by end of day? [Ref: #22048] Finance Department,",0,legitimate

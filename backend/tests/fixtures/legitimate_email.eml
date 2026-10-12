@@ -1,0 +1,30 @@
+Received: from mail-relay1.company.com (mail-relay1.company.com [198.51.100.10])
+	by mx.targetcorp.com with ESMTPS id 4X9kLm0Zq7z34
+	for <alex@targetcorp.com>; Thu, 24 Sep 2026 09:30:00 +0000
+Received: from internal-client.company.com ([10.0.4.15])
+	by mail-relay1.company.com with ESMTPA id 4X9kLj7Yq1z12
+	for <alex@targetcorp.com>; Thu, 24 Sep 2026 09:29:45 +0000
+Authentication-Results: mx.targetcorp.com;
+	dkim=pass header.d=company.com header.s=202601;
+	spf=pass (targetcorp.com: domain of sjenkins@company.com designates 198.51.100.10 as permitted sender) smtp.mailfrom=sjenkins@company.com;
+	dmarc=pass (p=REJECT) header.from=company.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=company.com; s=202601;
+	h=From:To:Subject:Date:Message-ID;
+	bh=fr93jk28dlfj29dkfj20kdlsjdf=;
+	b=MC0CFQC8djk2...==
+From: Sarah Jenkins <sjenkins@company.com>
+To: Alex Mercer <alex@targetcorp.com>
+Subject: Q3 Financial Planning Sync and Deliverables
+Date: Thu, 24 Sep 2026 09:29:40 +0000
+Message-ID: <20260924092940.89123@company.com>
+Return-Path: <sjenkins@company.com>
+Reply-To: Sarah Jenkins <sjenkins@company.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hi Alex,
+
+Attached is our updated review schedule for Q3. Looking forward to our planning sync later this afternoon.
+
+Best regards,
+Sarah Jenkins
+Finance Lead, Company Inc.

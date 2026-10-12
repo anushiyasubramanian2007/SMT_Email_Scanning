@@ -1,0 +1,17 @@
+Received: from mail.paypa1-service.com (mail.paypa1-service.com [198.51.100.99])
+	by mx.targetcorp.com with ESMTPS id 6T8kLm2Zq7z33
+	for <user@targetcorp.com>; Thu, 24 Sep 2026 16:20:00 +0000
+Authentication-Results: mx.targetcorp.com;
+	dkim=none;
+	spf=softfail (targetcorp.com: domain of support@paypa1-service.com does not designate 198.51.100.99 as permitted sender) smtp.mailfrom=support@paypa1-service.com;
+	dmarc=fail (p=NONE) header.from=paypa1-service.com
+From: "PayPal Account Security" <support@paypa1-service.com>
+To: user@targetcorp.com
+Subject: Notice: Suspicious charge of $849.00 on your PayPal wallet
+Date: Thu, 24 Sep 2026 16:19:15 +0000
+Message-ID: <dispute-8921@paypa1-service.com>
+Return-Path: <bounce@paypa1-service.com>
+Reply-To: dispute-center@paypa1-service.com
+Content-Type: text/plain; charset="utf-8"
+
+A charge of $849.00 to CryptoExchange LLC was authorized from your account. If you did not make this purchase, dispute it within 24 hours.

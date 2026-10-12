@@ -1,0 +1,17 @@
+Received: from exit-node2.torproject.org (exit-node2.torproject.org [185.220.101.5])
+	by mx.targetcorp.com with ESMTPS id 1P9kLm4Zq8z11
+	for <investigations@targetcorp.com>; Thu, 24 Sep 2026 15:45:00 +0000
+Authentication-Results: mx.targetcorp.com;
+	dkim=none;
+	spf=neutral (targetcorp.com: 185.220.101.5 is neither permitted nor denied by domain of whistleblower@onionmail.org);
+	dmarc=none
+From: Confidential Source <whistleblower@onionmail.org>
+To: Investigations <investigations@targetcorp.com>
+Subject: Evidence Leaks and Corporate Document Disclosure
+Date: Thu, 24 Sep 2026 15:44:00 +0000
+Message-ID: <onion-leak-20260924-883921@onionmail.org>
+Return-Path: <whistleblower@onionmail.org>
+Reply-To: whistleblower@onionmail.org
+Content-Type: text/plain; charset="utf-8"
+
+Please find the requested leaked audit files on the anonymous drop server.
